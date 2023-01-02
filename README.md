@@ -1,4 +1,4 @@
-# Notesharp - Windows Text Editor
+# Sharpnote - Windows Text Editor
 
 A lightweight, non-bloated, simple in use notepad - adequate to all needs.
 
@@ -15,17 +15,17 @@ So, the main goal of this project, is to combine all the best things that they h
 
 ##### Standard design for text editor:
 
-![Image of Program](img/Image1.png)
+![Image of Program](screenshots/1.png)
 
 ##### Able to open files and display them into the editor:
 
 * Line/Column numbers also show according to where your cursor is selected
 
-![Image of Program](img/Image2.png)
+![Image of Program](screenshots/2.png)
 
 ##### Able to see an example of the color before you choose it:
 
-![Image of Program](img/Image3.png)
+![Image of Program](screenshots/3.png)
 
 
 * Uses a KnownColor object for the selected color. Once backcolor is set, it converts the color to RGB values and
@@ -79,7 +79,7 @@ determines if its considered a lighter or darker color. It then changes the text
 
 ##### Icons on each menu item in the menu bar:
 
-![Image of Program](img/Image4.png)
+![Image of Program](screenshots/4.png.png)
 
 ### Prerequisites
 
