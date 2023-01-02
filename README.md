@@ -79,7 +79,7 @@ determines if its considered a lighter or darker color. It then changes the text
 
 ##### Icons on each menu item in the menu bar:
 
-![Image of Program](screenshots/4.png.png)
+![Image of Program](screenshots/4.png)
 
 ### Prerequisites
 
