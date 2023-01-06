@@ -3,7 +3,7 @@
 
 If you're tired of complicated, feature-heavy notepads that are difficult to use, give our lightweight option a try. Its minimalistic design is easy on the eyes and intuitive to navigate. With just the right amount of features to meet your needs, this notepad is perfect for anyone looking to streamline their workflow and stay focused on the task at hand.
 
-### A lightweight, non-bloated, simple in use notepad - adequate to all needs.
+#### A lightweight, non-bloated, simple in use notepad - adequate to all needs.
 
 The name and whole concept was inspired from Notepad++.
 
