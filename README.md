@@ -103,3 +103,5 @@ Requires *Visual Studio 2017 or higher* to debug.
 ## License
 
 This project is licensed under the MIT GPL-3.0 license - see the [LICENSE.md](LICENSE.md) file for details
+
+
